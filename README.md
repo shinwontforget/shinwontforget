@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hi 👋, I'm Shubham Sharma (aka <i>Shubh</i>)
+  Hi 👋, I'm Shubham Sharma (aka <i>SHUBH</i>)
 </h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/shubhamsharma0522">
+  <a href="https://www.linkedin.com/in/shubhamsharma0522/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shubham8423286406@gmail.com">
