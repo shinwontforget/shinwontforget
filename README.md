@@ -2,12 +2,18 @@
   <img src="YOUR_HEADER_IMAGE_LINK_HERE.png" width="100%" alt="Shubham Sharma Banner" />
 </div>
 
+<h1 align="center">
+  Hi 👋, I'm Shubham Sharma (aka <i>Shubh</i>)
+</h1>
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
-  <h3>🚀 Software Engineering Student | Mobile Security & Backend Developer 🛡️</h3>
-  
-  <br/>
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Mobile+Security+Specialist;Flutter+Developer;Backend+Engineer;Privacy+Advocate" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://linkedin.com/in/shubhamsharma0522">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -21,14 +27,18 @@
 
 <br/>
 
-<h3 align="left">🔥 Contribution Streak & Activity</h3>
+<h3>🔥 Contribution Streak & Activity Heatmap</h3>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh152205&theme=tokyonight&hide_border=true&background=0D1117&fire=FF5722&ring=FF5722&currStreakLabel=FF5722" alt="streak stats"/>
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh152205&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="100%" />
 </div>
 
 <br/>
 
-<h3 align="left">💻 Signature Projects</h3>
+<h3>💻 Signature Projects</h3>
 <table width="100%">
   <thead>
     <tr>
@@ -39,24 +49,19 @@
   </thead>
   <tbody>
     <tr>
-      <td>🛡️ <b>Malicious App Analyzer</b></td>
-      <td>Mobile security tool to detect sensitive permissions & threats.</td>
+      <td>🛡️ <b>FreeMalwareDetector</b></td>
+      <td>Mobile security tool to analyze Android apps for sensitive permissions & threats.</td>
       <td>Flutter, Dart</td>
     </tr>
     <tr>
       <td>🔒 <b>Secure Notes</b></td>
-      <td>Privacy-first notes app with local encryption & biometrics.</td>
+      <td>Offline-first notes app with military-grade local encryption.</td>
       <td>Flutter, AES</td>
     </tr>
     <tr>
-      <td>🏦 <b>JPMorgan Simulation</b></td>
-      <td>Financial transaction processing system with real-time data.</td>
-      <td>Java, Spring Boot</td>
-    </tr>
-     <tr>
-      <td>💳 <b>Mastercard Simulation</b></td>
-      <td>Phishing simulation and security vulnerability analysis.</td>
-      <td>Security, Python</td>
+      <td>📺 <b>YouTube to PDF</b></td>
+      <td>Utility tool to convert educational videos into readable PDF notes.</td>
+      <td>Python, React</td>
     </tr>
   </tbody>
 </table>
@@ -68,8 +73,8 @@
     <td width="50%" valign="top">
       <h3>🚀 Currently Building</h3>
       <ul>
-        <li>A decentralized chat mesh app for offline comms.</li>
-        <li>Improving my Malicious App Analyzer engine.</li>
+        <li><b>Privacy-Focused Browser Extensions</b> to block trackers.</li>
+        <li>Improving the scanning engine for FreeMalwareDetector.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -77,7 +82,7 @@
       <ul>
         <li><b>SAP BTP</b> & Cloud Application Programming (CAP)</li>
         <li><b>Advanced Backend</b> System Design (Kafka)</li>
-        <li><b>Mobile Security</b> Penetration Testing</li>
+        <li><b>Browser Extension</b> Security Architecture</li>
       </ul>
     </td>
   </tr>
@@ -85,7 +90,7 @@
 
 <br/>
 
-<h3 align="left">🛠️ Skills & Stack</h3>
+<h3>🛠️ Skills & Stack</h3>
 
 **Languages** <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -99,20 +104,18 @@
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
 
-**Data & Security** <br/>
-<img src="https://img.shields.io/badge/Mobile_Security-4285F4?style=flat&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Cryptography-000000?style=flat&logo=files&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-
 <br/>
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3>📊 GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubh152205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh152205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
 </div>
 
 <br/>
+
+<h3>⚡ Fun Fact</h3>
+<p>I build security tools because I believe privacy is a human right, not a luxury feature! 🕵️‍♂️</p>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh152205&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="100%" />
+  <img src="https://media.giphy.com/media/QssGEmpjgu8M0/giphy.gif" width="200" alt="coding meme" />
 </div>
