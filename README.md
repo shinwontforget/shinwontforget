@@ -44,6 +44,7 @@
   <a href="https://github.com/shubh152205"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
   <a href="https://shubh152205.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=googlechrome" /></a>
   <a href="mailto:shubham8423286406@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/askshubh"><img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" /></a>
 </p>
 
 ---
@@ -53,16 +54,31 @@
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)
 
 ### 🧩 Frameworks & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka)
+
+### 📊 Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
+
+### 💾 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
 
 ### ☁️ Cloud & AI
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure)
