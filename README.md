@@ -1,121 +1,84 @@
-<div align="center">
-  <img src="YOUR_HEADER_IMAGE_LINK_HERE.png" width="100%" alt="Shubham Sharma Banner" />
-</div>
+<h1 align="center">Hi 👋, I'm <strong>Shubham Sharma</strong></h1>
+<h3 align="center">🚀 Software Engineer | 🔐 Mobile Security Enthusiast | ☁️ Backend & AI Explorer</h3>
 
-<h1 align="center">
-  Hi 👋, I'm Shubham Sharma (aka <i>SHUBH</i>)
-</h1>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Mobile+Security+Specialist;Flutter+Developer;Backend+Engineer;Privacy+Advocate" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubh152205&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<br/>
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/shubhamsharma0522/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shubham8423286406@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://shubh152205.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-</div>
+## 🔥 Contribution Streak & Activity Heatmap
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh152205&theme=github-dark-blue" alt="shubh152205's streak" />
+</p>
 
-<h3>🔥 Contribution Streak & Activity Heatmap</h3>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh152205&theme=tokyonight&hide_border=true&background=0D1117&fire=FF5722&ring=FF5722&currStreakLabel=FF5722" alt="streak stats"/>
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh152205&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="100%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh152205&theme=github-compact&area=true&hide_border=true" alt="shubh152205's activity graph" />
+</p>
 
-<br/>
+---
 
-<h3>💻 Signature Projects</h3>
-<table width="100%">
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🛡️ <b>FreeMalwareDetector</b></td>
-      <td>Mobile security tool to analyze Android apps for sensitive permissions & threats.</td>
-      <td>Flutter, Dart</td>
-    </tr>
-    <tr>
-      <td>🔒 <b>Secure Notes</b></td>
-      <td>Offline-first notes app with military-grade local encryption.</td>
-      <td>Flutter, AES</td>
-    </tr>
-    <tr>
-      <td>📺 <b>YouTube to PDF</b></td>
-      <td>Utility tool to convert educational videos into readable PDF notes.</td>
-      <td>Python, React</td>
-    </tr>
-  </tbody>
-</table>
+## ⚙️ Signature Projects
 
-<br/>
+| 💡 Project | Description | Tech Stack |
+|-----------|-------------|------------|
+| 🛡️ **Malicious App Analyzer** | Mobile security tool for detecting harmful Android apps | Flutter, Dart |
+| 🔐 **Secure Notes** | Privacy-first note app with offline local encryption | Flutter, Cryptography |
+| 📄 **YouTube to PDF** | Automates conversion of educational videos into structured PDFs | Python, Java, HTML |
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Currently Building</h3>
-      <ul>
-        <li><b>Privacy-Focused Browser Extensions</b> to block trackers.</li>
-        <li>Improving the scanning engine for FreeMalwareDetector.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Currently Learning</h3>
-      <ul>
-        <li><b>SAP BTP</b> & Cloud Application Programming (CAP)</li>
-        <li><b>Advanced Backend</b> System Design (Kafka)</li>
-        <li><b>Browser Extension</b> Security Architecture</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+---
 
-<br/>
+## 🌱 Currently Exploring
 
-<h3>🛠️ Skills & Stack</h3>
+- ☁️ Cloud Architecture and Azure AI integration
+- 🌐 Advanced API Development (Postman API Student Expert)
+- 🤖 Integrating LLMs into backend services
 
-**Languages** <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+---
 
-**Frameworks & Tools** <br/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
+## 📫 Let’s Connect
 
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/shubhamsharma0522"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/shubh152205"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://shubh152205.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=googlechrome" /></a>
+  <a href="mailto:shubham8423286406@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+</p>
 
-<h3>📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh152205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh152205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
-</div>
+---
 
-<br/>
+## 🧠 Skills & Stack
 
-<h3>⚡ Fun Fact</h3>
-<p>I build security tools because I believe privacy is a human right, not a luxury feature! 🕵️‍♂️</p>
-<div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpjgu8M0/giphy.gif" width="200" alt="coding meme" />
-</div>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)
+
+### 🧩 Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka)
+
+### ☁️ Cloud & AI
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh152205&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh152205&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> Clean code is good, but code that solves real problems is better. 🚀
