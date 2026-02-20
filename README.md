@@ -45,6 +45,7 @@
   <a href="https://shubh152205.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=googlechrome" /></a>
   <a href="mailto:shubham8423286406@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.geeksforgeeks.org/profile/askshubh"><img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" /></a>
+  <a href="https://www.hackerrank.com/profile/ask_shubham_dev"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" /></a>
 </p>
 
 ---
