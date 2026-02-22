@@ -23,9 +23,9 @@
 
 | 💡 Project | Description | Tech Stack |
 |-----------|-------------|------------|
-| 🛡️ **Malicious App Analyzer** | Mobile security tool for detecting harmful Android apps | Flutter, Dart |
-| 🔐 **Secure Notes** | Privacy-first note app with offline local encryption | Flutter, Cryptography |
-| 📄 **YouTube to PDF** | Automates conversion of educational videos into structured PDFs | Python, Java, HTML |
+| 🛡️ [**Malicious App Analyzer**](https://github.com/shubh152205/FreeMalwareDetection) | Mobile security tool for detecting harmful Android apps | Flutter, Dart |
+| 🔐 [**Secure Notes**](http://github.com/shubh152205/Secure_Notes) | Privacy-first note app with offline local encryption | Flutter, Cryptography |
+| 📄 [**YouTube to PDF**](http://github.com/shubh152205/Youtube_To_PDF) | Automates conversion of educational videos into structured PDFs | Python, Java, HTML |
 | 🕵️ [**Pocket Analyzer**](https://github.com/shubh152205/Pocket_Analyzer) | Deep Packet Inspection (DPI) engine — inspects PCAP files, extracts SNI from TLS, classifies traffic (YouTube, Facebook, etc.) and blocks by rule | C++, Multi-threading, Networking |
 | 👻 [**Ghost Writer**](https://github.com/shubh152205/Ghost_Writer) | Chrome extension that bypasses paste restrictions on coding platforms (LeetCode, GFG) with Smart Insert & Slow Type modes | JavaScript, Chrome Extensions |
 
